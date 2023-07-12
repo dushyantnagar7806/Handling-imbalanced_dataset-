@@ -50,5 +50,8 @@ These techniques can improve the performance of a model by reducing overfitting 
 
 Using an ensemble technique can be costly and hard to interpret.
 
+** This Block Help the Read in more **
+[click.](https://medium.com/mlearning-ai/handling-class-imbalance-in-machine-learning-cb1473e825ce)
+
 
 
