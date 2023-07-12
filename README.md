@@ -23,6 +23,9 @@ On the other hand, throwing away data means that we lose information. This can r
 
 We can use undersampling if the data (particularly the majority class) contains many redundant samples that do not provide much additional information to the model, and when it is difficult or expensive to collect more samples from the minority class. Additionally, we can use it if the gap between classes is not that deep. We can tune it slightly by removing some samples from the majority class.
 
+![image](https://github.com/dushyantnagar7806/Handling-imbalanced_dataset-/assets/109071505/8f6b5c9a-dd74-4195-8e8b-3d2247da10ce)
+
+
 
 ## 2. Oversampling (SMOTE)
 In the opposite way of undersampling, now we create more duplicates of the minority class. There are various ways to oversample, but the most famous one is called Synthetic Minority Over-sampling Technique (SMOTE).
@@ -38,6 +41,9 @@ On the other hand, SMOTE generates synthetic samples, which can introduce noise 
 
 SMOTE is particularly useful when the class imbalance is severe and the minority class is significantly underrepresented. It is also useful when there is limited data available for the minority class, as it can create additional synthetic samples to improve model performance.
 
+![image](https://github.com/dushyantnagar7806/Handling-imbalanced_dataset-/assets/109071505/6576b84b-1e74-4668-9ba9-f84e621c58a1)
+
+
 
 
 ## 3. Ensemble Method
@@ -50,7 +56,10 @@ These techniques can improve the performance of a model by reducing overfitting 
 
 Using an ensemble technique can be costly and hard to interpret.
 
-** This Block Help the Read in more **
+![image](https://github.com/dushyantnagar7806/Handling-imbalanced_dataset-/assets/109071505/45e4580a-54be-408b-9e2c-0f1818423cfc)
+
+
+**This Block Help the Read in more**
 [click.](https://medium.com/mlearning-ai/handling-class-imbalance-in-machine-learning-cb1473e825ce)
 
 
